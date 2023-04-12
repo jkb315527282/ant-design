@@ -67,6 +67,62 @@ const App: React.FC = () => {
       key: '3',
       label: `Tab 3`,
       children: 'Content of Tab Pane 3',
+    },{
+      key: '11',
+      label: `Tab 1`,
+      children: 'Content of Tab Pane 1',
+    },
+    {
+      key: '22',
+      label: `Tab 2`,
+      children: 'Content of Tab Pane 2',
+    },
+    {
+      key: '33',
+      label: `Tab 3`,
+      children: 'Content of Tab Pane 3',
+    },{
+      key: '111',
+      label: `Tab 1`,
+      children: 'Content of Tab Pane 1',
+    },
+    {
+      key: '222',
+      label: `Tab 2`,
+      children: 'Content of Tab Pane 2',
+    },
+    {
+      key: '333',
+      label: `Tab 3`,
+      children: 'Content of Tab Pane 3',
+    },{
+      key: '111',
+      label: `Tab 1`,
+      children: 'Content of Tab Pane 1',
+    },
+    {
+      key: '222',
+      label: `Tab 2`,
+      children: 'Content of Tab Pane 2',
+    },
+    {
+      key: '333',
+      label: `Tab 3`,
+      children: 'Content of Tab Pane 3',
+    },{
+      key: '1111',
+      label: `Tab 1`,
+      children: 'Content of Tab Pane 1',
+    },
+    {
+      key: '2222',
+      label: `Tab 2`,
+      children: 'Content of Tab Pane 2',
+    },
+    {
+      key: '3333',
+      label: `Tab 3`,
+      children: 'Content of Tab Pane 3',
     },
   ]);
 
